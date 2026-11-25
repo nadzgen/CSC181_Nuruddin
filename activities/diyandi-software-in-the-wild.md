@@ -1,10 +1,10 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> \*\*Name:\*\* Nadzgen Sanlao Nuruddin  
-> \*\*Section:\*\* CS3A 
-> \*\*Date submitted:\*\* 2026-11-25
+> **Name:** Nadzgen Sanlao Nuruddin  
+> **Section:** CS3A  
+> **Date submitted:** 2026-11-25
 
-\---
+---
 
 ## 1\. User group
 
@@ -80,7 +80,7 @@ Visitors could be asked to locate a particular stall with and without using the 
 Select **one** option below and complete the applicable details.
 
 * \[ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
-* \[/] **AI tools used.** I used the following AI tool(s): ChatGPT
+* \[x] **AI tools used.** I used the following AI tool(s): ChatGPT
 
   **Purpose of use:**  
 I used ChatGPT to explore possible problems during the Diyandi Festival and get suggestions on how they could be addressed. The idea of a stall discovery kiosk in Mugna was my own.
